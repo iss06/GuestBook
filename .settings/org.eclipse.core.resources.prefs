@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
-encoding//src/main/webapp/guestbook/deleteform.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/guestbook/add.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/guestbook/delete.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/guestbook/deleteform.jsp=UTF-8
 encoding/<project>=UTF-8
